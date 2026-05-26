@@ -152,4 +152,3 @@ You can download the latest APK from the releases section of this repository:
 - **[Latest Release v1.0.0](https://github.com/KaiParker21/FinanceCompanion/releases/tag/v1.0.0)**
 
 ---
-**Designed and engineered by Bhavishya Prajapat.**
