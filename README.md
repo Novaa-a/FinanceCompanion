@@ -18,7 +18,6 @@ An intelligent, automated personal finance tracker featuring on-device machine l
     <br/>
     <img src="screenshots/homedark.png" alt="Home Screen Dark Mode" width="220"/>
     <img src="screenshots/Insightsdark.png" alt="Insights Screen Dark Mode" width="220"/>
-    <img src="screenshots/profile.png" alt="Profile Screen" width="220"/>
 </div>
 
 <details>
