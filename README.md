@@ -136,7 +136,7 @@ To facilitate testing and portfolio demonstration, the app includes built-in sta
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/KaiParker21/FinanceCompanion
+   git clone https://github.com/Novaa-a/FinanceCompanion
    ```
 2. **Open the project** in Android Studio (Giraffe or newer recommended).
 3. **Sync Gradle files.**
